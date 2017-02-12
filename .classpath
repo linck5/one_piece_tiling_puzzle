@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Primitivas Graficas/src"/>
+	<classpathentry kind="lib" path="Quebra-Cabeças One Piece.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="Primitivas Graficas/bin"/>
+</classpath>
